@@ -1,0 +1,11 @@
+# Ignorar carpetas de datos en cualquier ubicación (cubriendo mayúsculas y minúsculas)
+**/data/
+**/Data/
+**/datasets/
+**/Datasets/
+
+# Ignorar archivos comprimidos pesados por seguridad
+*.tar.gz
+*.zip
+*.rar
+*.7z
